@@ -11,6 +11,7 @@ def generate_password(length=12):
 length = int(input("Enter password length: "))
 print("Generated Password:", generate_password(length))
 
+#                             OR
 
 import secrets
 # import string
