@@ -1,4 +1,4 @@
-# 🔐 PASSWORD_GENERATOR
+# PASSWORD_GENERATOR
 
 A simple console-based **Password Generator** implemented in multiple programming languages. This project generates strong, random passwords using letters, numbers, and special characters, helping users create secure passwords for their accounts.
 
